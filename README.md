@@ -1,5 +1,5 @@
 # Who I am
-Hi folks, I am Yoan Thirion a Technical Agile coach.
+Hi folks, I am [Yoan Thirion](https://www.linkedin.com/in/yoanthirion) a Technical Agile coach.
 
 ![Yoan Thirion](img/yot-brain.png)
 
@@ -58,3 +58,4 @@ Do not hesitate to fork it, contribute, give feedback or anything else 😉
 ## Resources
 - [Personal website](https://www.yoan-thirion.com/#home)
 - [Knowledge base](https://yoan-thirion.gitbook.io/knowledge-base/)
+- Reach me on [linkedin](https://www.linkedin.com/in/yoanthirion) 
