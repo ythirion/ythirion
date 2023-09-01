@@ -55,6 +55,39 @@ During the code kata participants will learn and practice:
 
 Do not hesitate to fork it, contribute, give feedback or anything else 😉
 
+## Refactoring du Bouchonnois
+A full workshop in french to learn and practice the below flavours :
+- Example Mapping
+- Static Code Analysis / Linter
+- Treat Warnings as Errors
+- Mutation Testing
+- Test Data Builders
+- Approval Testing
+- Automated Refactoring
+- Property-Based Testing
+- Tests d'Architecture
+- Test-Driven Development
+- Clean Architecture
+- Domain Driven Design
+- Tell Don't Ask
+- Functional Programming
+- Avoid Primitives
+- Avoid Exceptions
+- Architecture Decision Records
+- Event Sourcing
+- ...
+
+![Refactoring du Bouchonnois](https://raw.githubusercontent.com/ythirion/refactoring-du-bouchonnois/main/img/refactoring-du-bouchonnois.webp)
+
+Repository available [here](https://github.com/ythirion/refactoring-du-bouchonnois)
+
+## Software Crafter Journey
+This journey is an attempt to centralize useful resources (code kata, workshops, talks) that can help aspiring Software Craftsperson in their Journey.
+
+![Journey](https://raw.githubusercontent.com/ythirion/software-crafter-journey/main/img/crafter-journey.webp)
+
+Repository available [here](https://github.com/ythirion/software-crafter-journey)
+
 ## Resources
 - [Personal website](https://www.yoan-thirion.com/#home)
 - [Knowledge base](https://yoan-thirion.gitbook.io/knowledge-base/)
