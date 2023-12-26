@@ -81,6 +81,13 @@ A full workshop in french to learn and practice the below flavours :
 
 Repository available [here](https://github.com/ythirion/refactoring-du-bouchonnois)
 
+## Advent Of Craft 2023
+25 challenges to learn and practice craft techniques.
+
+More infos [here](https://github.com/advent-of-craft/advent-of-craft).
+
+![Advent Of Craft](https://github.com/advent-of-craft/advent-of-craft/blob/main/img/advent-of-craft.png?raw=true)
+
 ## Software Crafter Journey
 This journey is an attempt to centralize useful resources (code kata, workshops, talks) that can help aspiring Software Craftsperson in their Journey.
 
