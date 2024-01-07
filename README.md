@@ -86,7 +86,7 @@ Repository available [here](https://github.com/ythirion/refactoring-du-bouchonno
 
 More infos [here](https://github.com/advent-of-craft/advent-of-craft).
 
-![Advent Of Craft](https://github.com/advent-of-craft/advent-of-craft/blob/main/img/advent-of-craft.png?raw=true)
+![Advent Of Craft](https://github.com/ythirion/software-crafter-journey/blob/main/img/advent-of-craft.png)
 
 ## Software Crafter Journey
 This journey is an attempt to centralize useful resources (code kata, workshops, talks) that can help aspiring Software Craftsperson in their Journey.
