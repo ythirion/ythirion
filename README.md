@@ -29,7 +29,7 @@ shorten the learning curve of developers.
 We are really proud to have a full workshop including facilitation guide, step-by-step solution in `C#` and `java`, a knowledge base and an escape game that you 
 can use as facilitator for the first iterations.
 
-![Xtrem T.D.D](img/xtrem-tdd.png)
+[![Xtrem T.D.D](img/xtrem-tdd.png)](https://github.com/les-tontons-crafters/xtrem-tdd-money-kata)
 
 We had great feedback on it and chosen to publish all the content for free under M.I.T license, so you can find:
 - The code kata including instructions and step-by-step solutions [here](https://github.com/les-tontons-crafters/xtrem-tdd-money-kata)
@@ -77,21 +77,21 @@ A full workshop in french to learn and practice the below flavours :
 - Event Sourcing
 - ...
 
-![Refactoring du Bouchonnois](https://raw.githubusercontent.com/ythirion/refactoring-du-bouchonnois/main/img/refactoring-du-bouchonnois.webp)
+[![Refactoring du Bouchonnois](https://raw.githubusercontent.com/ythirion/refactoring-du-bouchonnois/main/img/refactoring-du-bouchonnois.webp)](https://github.com/ythirion/refactoring-du-bouchonnois)
 
 Repository available [here](https://github.com/ythirion/refactoring-du-bouchonnois)
 
 ## Advent Of Craft 2023
 25 challenges to learn and practice craft techniques.
 
-More infos [here](https://github.com/advent-of-craft/advent-of-craft).
+[![Advent Of Craft](https://github.com/ythirion/software-crafter-journey/blob/main/img/advent-of-craft.png)](https://github.com/advent-of-craft/advent-of-craft)
 
-![Advent Of Craft](https://github.com/ythirion/software-crafter-journey/blob/main/img/advent-of-craft.png)
+More infos [here](https://github.com/advent-of-craft/advent-of-craft).
 
 ## Software Crafter Journey
 This journey is an attempt to centralize useful resources (code kata, workshops, talks) that can help aspiring Software Craftsperson in their Journey.
 
-![Journey](https://raw.githubusercontent.com/ythirion/software-crafter-journey/main/img/crafter-journey.webp)
+[![Journey](https://raw.githubusercontent.com/ythirion/software-crafter-journey/main/img/crafter-journey.webp)](https://github.com/ythirion/software-crafter-journey)
 
 Repository available [here](https://github.com/ythirion/software-crafter-journey)
 
