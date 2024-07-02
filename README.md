@@ -13,6 +13,10 @@ I coach teams get better at XP practices, Continuous Integration and Development
 ## What I do...
 [![How I work](img/promyze-article.png)](https://www.promyze.com/interview-technical-agile-coaching/)
 
+> Podcast [Coacher pour faire progresser par Yann Courtel et Yoan Thirion](https://podcast.ausha.co/tech-lead-corner-3/yoan-thirion-et-yann-courtel-coacher-pour-faire-progresser)
+
+[![Podcast](img/tech-lead-corner.png)](https://podcast.ausha.co/tech-lead-corner-3/yoan-thirion-et-yann-courtel-coacher-pour-faire-progresser)
+
 ### Programming languages
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ythirion&layout=compact&theme=gotham)
 
