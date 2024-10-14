@@ -1,6 +1,8 @@
 # Who I am
 Hi folks, I am [Yoan Thirion](https://www.linkedin.com/in/yoanthirion) a Technical Agile coach.
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/ythirion/book-session.svg)](https://www.codementor.io/@ythirion?refer=badge)
+
 ![Yoan Thirion](img/yot-brain.png)
 
 I have designed software since more than 15 years now. My various experiences in fields like banking, insurance and industrial environments at Luxembourg helped me understood what were really fundamental to succeed in that area : agility and craft practices.
